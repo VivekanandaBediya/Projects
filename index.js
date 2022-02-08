@@ -40,3 +40,10 @@ var str = 'a'
 console.log(typeof str);
 var str = "How are you?";
 console.log(str);
+
+var b = `hi hope you guys are
+ able grasp the concepts`;
+console.log(b)
+
+var num = 200;
+console.log(`half of ${num} is ${num/2}`);
