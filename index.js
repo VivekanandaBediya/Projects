@@ -80,20 +80,10 @@ for (var i=0;i<num;i++){
 
 
 //const keyword
-const a =2;
-console.log(a);
+//const a =2;
+//console.log(a);
 // na his redeclare na reinitialize 
 //const a =5;
 //a = 4; //TypeError: Assignment to constant variable
 //console.log("key");
-
-
-
-
-
-
-
-
-
-
 
