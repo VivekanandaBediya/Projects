@@ -1,4 +1,10 @@
-// there are three types of javascript function 
-// 1.Normal function
+let person = {
+	firstname:"vivekananda",
+	lastname:"bediya",
+	age:20,
+	friends:function(){
+		document.write(`my name is ${person.firstname+" "+person.lastname}`);
+	}
+};
 
-function calculator(str,a,b)
+person.friends()
