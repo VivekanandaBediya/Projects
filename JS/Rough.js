@@ -1,10 +1,3 @@
-let person = {
-	firstname:"vivekananda",
-	lastname:"bediya",
-	age:20,
-	friends:function(){
-		document.write(`my name is ${person.firstname+" "+person.lastname}`);
-	}
-};
+var t = 1+"5";
 
-person.friends()
+console.log(t);
