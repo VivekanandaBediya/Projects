@@ -11,6 +11,9 @@ a{
 img{
     cursor: pointer;
 }
+.logo{
+    height: 50px;
+}
 .flex-div{
     display: flex;
     background: #fff;
@@ -163,6 +166,9 @@ nav{
 .vid-info{
     color: #5a5a5a;
     font-size: 13px;
+}
+.vid-info p{
+    margin-top: 5px;
 }
 .vid-info a{
     color: #000;
